@@ -1,1 +1,1 @@
-add_lunch_combo cm_serrano3gxx-userdebug
+add_lunch_combo cd_serrano3gxx-userdebug
